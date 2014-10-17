@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myg:home|Door43 (myg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myg|d43-myg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myg/archive/master.zip|d43-myg.zip]]
+
+**Recent Changes**
+{{changes>ns = myg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myg|Ethnologue data]]
+
